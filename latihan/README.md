@@ -4,7 +4,7 @@
 
 | Komponen | Class / Interface | Penggunaan |
 |---|---|---|
-| Top-level Container | `JFrame` | `ContohGUI` (jendela utama) |
+| Top-level Container | `JFrame` | `latihanGUI` (jendela utama) |
 | Intermediate Container | `JPanel` | `panelAtas`, `panelBawah` |
 | Atomic Component | `JLabel`, `JTextField`, `JButton` | label, input nama, tombol Sapa dan Reset |
 | Layout Classes | `GridLayout`, `FlowLayout` | `GridLayout` (layout utama), `FlowLayout` (tiap panel) |
